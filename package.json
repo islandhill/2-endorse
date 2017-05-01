@@ -5,7 +5,7 @@
   "main": "handler.js",
   "scripts": {
     "check": "eslint src",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "author": "",
   "license": "ISC",
@@ -16,6 +16,7 @@
   "devDependencies": {
     "babel-eslint": "^7.2.3",
     "eslint": "^3.18.0",
+    "jest": "^19.0.2",
     "serverless-webpack": "^1.0.0-rc.4"
   }
 }
