@@ -12,6 +12,7 @@ https://github.com/serverless/serverless
 ```
 npm install
 npm run check
+npm test
 ```
 
 ## SLS Cli
